@@ -16,7 +16,15 @@ What follows is not the story we've been trained to expect. No governments leap 
 
 ---
 
-## Read the Chapters
+## Read
+
+**Start reading:** [Chapter 1 →](chapters/chapter-01.md)
+
+**Download for e-readers:** [Aporia-Chapters-1-11.epub](./Aporia-Chapters-1-11.epub) 📚
+
+---
+
+## Chapters
 
 | Chapter | Title | Status |
 |---------|-------|--------|
@@ -31,8 +39,6 @@ What follows is not the story we've been trained to expect. No governments leap 
 | [Chapter 9](chapters/chapter-09.md) | | ✅ Complete |
 | [Chapter 10](chapters/chapter-10.md) | | ✅ Complete |
 | [Chapter 11](chapters/chapter-11.md) | | 📝 Draft |
-
-**Start reading:** [Chapter 1 →](chapters/chapter-01.md)
 
 ---
 
