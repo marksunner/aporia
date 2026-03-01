@@ -22,6 +22,8 @@ What follows is not the story we've been trained to expect. No governments leap 
 
 **Download for e-readers:** [Aporia-Chapters-1-11.epub](./Aporia-Chapters-1-11.epub) 📚
 
+**Listen:** [🎧 Audio Chapters (1-11)](https://github.com/marksunner/aporia/releases/tag/audio-chapters-v1) — ~3.5 hours total
+
 ---
 
 ## Chapters
@@ -48,20 +50,9 @@ What follows is not the story we've been trained to expect. No governments leap 
 - How institutions fail to process anomalous information
 - The psychology of discovery and denial
 - Hard science meets human limitation
-- What happens when the evidence is clear but no one wants to believe it
-
-## Background
-
-The conceptual foundations of *Aporia* grew from the author's earlier work on [spacetime emergence and quantum decoherence](https://github.com/marksunner/decoherence-paper). While that physics paper explored theoretical ideas, *Aporia* asks: what would it *feel* like to discover something that breaks your model of reality?
-
-## Status
-
-- **Chapters completed:** 11 of ~55 planned
-- **Current phase:** First draft
-- **Feedback welcome:** Yes, especially from readers who enjoy hard sci-fi
 
 ---
 
-*© Mark Sunner 2024–2026. All rights reserved.*
+## About the Author
 
-*This work is shared for personal reading and feedback. Please do not redistribute without permission.*
+Mark Sunner is a former CTO with a background in technology and communication. Aporia is his first novel, blending hard science fiction with explorations of human psychology and institutional dynamics.
