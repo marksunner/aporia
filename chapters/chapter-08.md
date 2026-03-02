@@ -1,4 +1,4 @@
-# Chapter 8
+# Chapter 8: Departure
 
 Mid-Pacific, 12°46’N 167°12’W
 Research Vessel JOIDES Resolution
