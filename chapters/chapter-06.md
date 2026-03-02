@@ -1,8 +1,8 @@
 # Chapter 6: Calculation
 
-Quantiv Communications Headquarters
-Bethesda, Maryland
-09:14 local time
+Quantiv Communications Headquarters<br>
+Bethesda, Maryland<br>
+09:14 local time<br>
 
 The morning sun hit her screen at exactly the angle that made the numbers illegible.
 
