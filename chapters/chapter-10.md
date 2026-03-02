@@ -1,6 +1,8 @@
 # Chapter 10: Marionettist
 
-The Ritz-Carlton Chevy Chase Bethesda, Maryland  05:47 local time
+The Ritz-Carlton Chevy Chase
+Bethesda, Maryland 
+05:47 local time
 
 Rachel woke before the alarm, as she always did in hotels. The unfamiliarity kept her light - strange sheets, strange air, the distinctive silence of a room that belonged to no one. She lay still for a moment, letting the day come into focus before anything tried to claim it.
 Grey light gathered at the curtains, the city beyond them already awake and in motion.
@@ -62,7 +64,11 @@ A small moment of silence. Julian's expression didn't change, but something shif
 Rachel watched his dismissiveness give way to calculation. Calculation give way to intensity. This was the reversal she'd anticipated, but she didn't savour it. She was already thinking three moves ahead.
 Julian looked up. "What do we know about the source material?"
 "Deep-sea sediment. Thirty-four million years old, according to Marcus. Says it contains a microscopic substance with properties that don't match anything on record."
-"And he's... where? Still on the ship?" “The Resolution. Mid-Pacific. He's running operations on board, as far as I know.” Julian glanced toward the door - the direction Volkov had gone. "Have you shared this with Sergei?" "No." "Good. Keep it that way for now." He set the printout down. "I don't want him chasing shadows. Not until we have something in hand."
+"And he's... where? Still on the ship?"
+“The Resolution. Mid-Pacific. He's running operations on board, as far as I know.”
+Julian glanced toward the door - the direction Volkov had gone. "Have you shared this with Sergei?"
+"No."
+"Good. Keep it that way for now." He set the printout down. "I don't want him chasing shadows. Not until we have something in hand."
 Julian stood. Moved to the window. This was how he thought—in motion, looking at horizons. Rachel waited.
 
 "We need that sample in our lab. And we need him available for questions — where it came from, how he obtained it, what the story is if anyone asks downstream." He turned. "How do we make that happen without attracting scrutiny?"
@@ -78,7 +84,9 @@ Julian nodded slowly. He was seeing it now, not just the logistics, but the psyc
 The question hung for a moment.
 Every word defensible. Every word misdirection. Budget and authority—proper corporate governance. Manufacture an opportunity —event logistics, conference planning. Removes Marcus from the ship—he's choosing to leave; they're facilitating. Voluntarily—the key word, the legal insulation, the lie that wasn't quite a lie.
 "Set it up."
-That was the authorisation. "Set it up" would eventually mean a helicopter to a research vessel in the Pacific, but the paper trail would show only a conference invitation. A corridor, not an extraction.  If this ever surfaced, in a legal review, an ethics inquiry, a board question, Julian had heard "conference invitation" and approved marketing spend. He hadn't heard "helicopter extraction of a compromised scientist." Rachel had created a paper trail that protected them both.
+That was the authorisation. "Set it up" would eventually mean a helicopter to a research vessel in the Pacific, but the paper trail would show only a conference invitation. A corridor, not an extraction.
+
+If this ever surfaced, in a legal review, an ethics inquiry, a board question, Julian had heard "conference invitation" and approved marketing spend. He hadn't heard "helicopter extraction of a compromised scientist." Rachel had created a paper trail that protected them both.
 Or appeared to.
 But Julian's mind hadn't stopped. Rachel could see him thinking past the immediate problem, into territory that was still speculative but already felt urgent.
 "This sample—grams, you said. Where did it come from? A single source?”
