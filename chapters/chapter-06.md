@@ -1,4 +1,4 @@
-# Chapter 6
+# Chapter 6: Calculation
 
 Quantiv Communications Headquarters
 Bethesda, Maryland 09:14 local time
