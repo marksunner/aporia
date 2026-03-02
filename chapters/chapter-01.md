@@ -1,8 +1,8 @@
 # Chapter 1: The Discovery
 
-Mid-Pacific, 12°44’N 167°10’W
-Research Vessel JOIDES Resolution
-03:17 ship time
+Mid-Pacific, 12°44’N 167°10’W<br>
+Research Vessel JOIDES Resolution<br>
+03:17 ship time<br>
 
 The coffee had gone cold two hours ago, but Elena Vargas drank it anyway. It tasted like what it was: the burnt residue of a pot brewed at midnight by someone who’d given up on sleep. She swallowed, grimaced, and turned back to the sample tray.
 
