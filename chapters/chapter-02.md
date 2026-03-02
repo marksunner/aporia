@@ -1,7 +1,7 @@
 # Chapter 2: Beijing
 
-Beijing, Haidian District
-06:47 local time
+Beijing, Haidian District<br>
+06:47 local time<br>
 
 The blood came with the first brush stroke, as it always did.
 
