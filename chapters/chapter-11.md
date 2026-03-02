@@ -16,7 +16,7 @@ The world rushed in — wind, voices, the whine of the rotors spinning down. Oko
 
 She thought, briefly, of Marcus, still on the Resolution, coordinating the drilling in their absence. She hadn't thanked him properly for that night in the lab — when exhaustion had nearly beaten her and he'd stayed to finish the documentation. She would send him a message tonight. Let him know how it had gone.
 
----
+
 
 A white Toyota waited at the edge of the tarmac. Eight years old, maybe older, with a dent in the rear passenger door and an air freshener shaped like a surfboard. The driver was a graduate student — Kevin, Okon said, marine geology — who apologised for the car twice before they'd finished loading the sample cases into the boot.
 
@@ -28,7 +28,7 @@ The H-1 took them east, Okon talking quietly into his phone while Honolulu scrol
 
 Okon was several moves ahead of her. She understood that now. While she had been documenting — logging samples, building the evidentiary chain — he had been building something else. An architecture of expertise. Connections she didn't know about, conversations she hadn't been part of. She didn't resent it. But she felt the gap, the realisation that the board was larger than she'd understood.
 
----
+
 
 Kevin turned onto Dole Street and pulled into a loading zone beside a building with blue-tinted windows. POST — Pacific Ocean Science and Technology. They unloaded the sample containers, lead-heavy in ways that still surprised her. Through the building's glass doors, a corridor stretched ahead — fluorescent lights, the faint mineral smell of laboratories. Elena's body recognised it. This was her territory.
 
@@ -62,7 +62,7 @@ Elena looked at the sample cases, then at Caroline. Something in the other woman
 
 "Then let's talk."
 
----
+
 
 The room was dark when they entered. Blinds drawn, lights off, only the glow of a projector warming on a table near the front. Elena's eyes adjusted slowly: a seminar room, small, perhaps a dozen chairs around a central table. Dry-erase markers and the smell of solvent.
 
@@ -104,7 +104,7 @@ Her mind was doing what it always did — cataloguing, analysing, searching for 
 
 And now the impossible was bigger than she had imagined.
 
----
+
 
 "There's more," Caroline said.
 
@@ -148,7 +148,7 @@ She looked at Elena.
 
 "Three weeks ago, entirely by chance, the Resolution reached this location. You drilled into one of the few places on Earth where these objects are concentrated enough to find." Her voice had dropped. "The spheres are concentrated in gravity wells. On Earth. On Mars. Almost certainly on the Moon, in the places we were too cautious to visit. The question is —"
 
----
+
 
 A voice from the doorway.
 
@@ -186,7 +186,7 @@ Elena realised she'd been holding her breath. She released it slowly.
 
 Dave's mouth twitched — not quite a smile, but an acknowledgment of the absurdity.
 
----
+
 
 The briefing dissolved into the controlled chaos of scientists reorganising their assumptions. Caroline was already pulling up additional datasets — Martian gravity maps, lunar orbital perturbation records. Okon was on his phone, speaking rapidly in Yoruba to someone Elena suspected was a former student now working in gravitational physics.
 
@@ -200,7 +200,7 @@ She moved toward the corridor, already composing the message. Dave Palmer crosse
 
 He set up with an economy that bordered on ritual — laptop positioned at a precise angle, external drives arranged in a specific order, cables routed with geometric care. Elena watched him for a moment, trying to read something in the deliberate stillness of his movements. He treated the machine the way a surgeon treated instruments — not carelessly, not reverently, but with the attention of someone who knew exactly what each piece could do.
 
----
+
 
 She crossed the lab to where Okon had finished his second call.
 
@@ -216,7 +216,7 @@ She considered this. "You think he'll help?"
 
 "I think he's been waiting for something like this his entire career. The question is whether he can explain what he finds in terms the rest of us can follow."
 
----
+
 
 Elena approached the workstation. Dave didn't look up as she stopped beside him, but his hands paused on the keyboard — a small acknowledgment, the stillness of someone who processed interruptions before responding to them.
 
@@ -232,7 +232,7 @@ He turned to look at her for the first time. His expression was difficult to rea
 
 Elena nodded. "Tell me what you need."
 
----
+
 
 Through the window, the afternoon light had shifted — the gold of Hawaii's late hours, slanting through the blue-tinted glass. The sample cases sat in the corridor where Kevin had secured them, still sealed, still waiting. Somewhere behind her, Caroline was on a call to Houston, her voice low, measured, choosing her words with the precision of someone who understood that what she said next would activate machinery she could not easily stop.
 
