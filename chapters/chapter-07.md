@@ -1,7 +1,7 @@
 # Chapter 7: Certainty
 
-Beijing
-MSS Translation & Interpretation Division 
+Beijing<br>
+MSS Translation & Interpretation Division<br>
 14:23 local time
 
 
