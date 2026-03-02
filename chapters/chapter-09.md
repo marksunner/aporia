@@ -1,7 +1,7 @@
 # Chapter 9: Acquiescence
 
-Beijing, Haidian District
-06:43 local time
+Beijing, Haidian District<br>
+06:43 local time<br>
 
 Chen watched as the blood pooled in the foam, pink against white, letting the small failure register without rushing past it. Some days the bleeding felt like accusation. Today it was simply fact. The water ran as the pink thinned to nothing. He rinsed his toothbrush and set it in the cup where it had stood for eighteen years, bristles facing the wall the way Liu Mei preferred, though she had never once explained why and he had never asked.
 
