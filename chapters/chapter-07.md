@@ -1,4 +1,4 @@
-# Chapter 7
+# Chapter 7: Certainty
 
 Beijing
 MSS Translation & Interpretation Division 
