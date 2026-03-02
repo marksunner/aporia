@@ -1,6 +1,7 @@
 # Chapter 9: Acquiescence
 
-Beijing, Haidian District 06:43 local time
+Beijing, Haidian District
+06:43 local time
 
 Chen watched as the blood pooled in the foam, pink against white, letting the small failure register without rushing past it. Some days the bleeding felt like accusation. Today it was simply fact. The water ran as the pink thinned to nothing. He rinsed his toothbrush and set it in the cup where it had stood for eighteen years, bristles facing the wall the way Liu Mei preferred, though she had never once explained why and he had never asked.
 
@@ -53,7 +54,9 @@ Deng's office smelled of dried squid and coffee that had been reheating since mo
 "Kinetic penetrators." Deng did not look up. Chen had explained in the doorway; Deng had waved him in and kept eating. "The density figures."
 
 Chen handed him the printout.
-Deng scanned it. Chewed without hurrying. His frown was brief, professional - the expression of a man who had evaluated a thousand impossible claims and found most of them merely improbable.  “Three-point-two times tungsten-carbide.” No inflection. “If it's real, it's significant.”
+Deng scanned it. Chewed without hurrying. His frown was brief, professional - the expression of a man who had evaluated a thousand impossible claims and found most of them merely improbable.
+
+“Three-point-two times tungsten-carbide.” No inflection. “If it's real, it's significant.”
 
 "Could it be real?”
 
