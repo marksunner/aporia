@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 1: The Discovery
 
 Mid-Pacific, 12°44’N 167°10’W
 Research Vessel JOIDES Resolution
