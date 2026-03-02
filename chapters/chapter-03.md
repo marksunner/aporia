@@ -1,6 +1,9 @@
 # Chapter 3: Duplicity
 
-Mid-Pacific, 12°46’N 167°12’W Research Vessel JOIDES Resolution 08:54 ship time 
+Mid-Pacific, 12°46’N 167°12’W
+Research Vessel JOIDES Resolution
+08:54 ship time
+
 Dr. Samuel Okon was halfway down the passageway when his phone vibrated. No name. Just a short message from Elena: Could you come to the lab when you're able. It wasn't phrased as urgent. That, more than anything else, told him it probably was.
 
 He turned left instead of right, pushing through the watertight door that led out toward the rig floor. He hadn't planned to go that way, but habit asserted itself. Mornings on the Resolution had a rhythm, and part of his was to check the drill before anything else demanded his attention.
@@ -40,7 +43,8 @@ By the time he reached the doorway, he already knew that whatever waited for him
 
 The lab was not quiet.
 
-He heard Marcus before he saw him — that pitch of enthusiasm that carried through doorways, the voice of a man explaining something he found remarkable to people he expected to agree. “- energy transfer we can't account for. Look at the gradient. That's not instrument noise. That's real."
+He heard Marcus before he saw him — that pitch of enthusiasm that carried through doorways, the voice of a man explaining something he found remarkable to people he expected to agree.
+“- energy transfer we can't account for. Look at the gradient. That's not instrument noise. That's real."
 
 Okon stepped into the frame.
 The scene assembled itself in pieces: Elena at the SEM station, her posture rigid, attention fixed on the monitor with the stillness of someone trying not to look anywhere else. Two graduate students standing near the door, exchanging glances they thought were subtle. And Marcus at the thermal analysis bench, leaning over a readout display, his body angled toward it like a man warming himself at a fire.
@@ -167,8 +171,10 @@ He composed the message carefully. Casual. Collegial. The language of shared cur
 
 Rachel — hope this finds you well. It's been too long since that AGU session in San Francisco. I've been thinking about some of the work your team presented, and I wonder if you might have a few minutes to discuss something we've encountered out here…
 
-Strange material coming up in deep-sea cores. Reproducible isotope anomalies. Density values that exceed anything in the literature. And some thermal properties that remind me of the coherence challenges you were wrestling with back in Maryland — heat transfer that seems to violate everything we know about room-temperature systems. It's only speculation, but such properties could indicate room-temperature quantum coherence. 
-He hesitated, then added a few more specifics — the kind of language that might make Quantiv's technical people sit up when Rachel shares it. Thermal transfer that seems to bypass conventional barriers. Kinetic resistance that simply wasn't there. Technical enough to be meaningful. Vague enough to be harmless. He hit send.
+Strange material coming up in deep-sea cores. Reproducible isotope anomalies. Density values that exceed anything in the literature. And some thermal properties that remind me of the coherence challenges you were wrestling with back in Maryland — heat transfer that seems to violate everything we know about room-temperature systems. It's only speculation, but such properties could indicate room-temperature quantum coherence.
+
+He hesitated, then added a few more specifics — the kind of language that might make Quantiv's technical people sit up when Rachel shares it. Thermal transfer that seems to bypass conventional barriers. Kinetic resistance that simply wasn't there. Technical enough to be meaningful. Vague enough to be harmless.
+He hit send.
 
 Marcus closed it and lay back on his bunk, staring at the ceiling, listening to the ship breathe. The frost on the probe kept replaying behind his eyes - those delicate crystals climbing toward something that pulled heat from everything around it and gave nothing back.
 
