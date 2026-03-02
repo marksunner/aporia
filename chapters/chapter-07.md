@@ -2,7 +2,7 @@
 
 Beijing<br>
 MSS Translation & Interpretation Division<br>
-14:23 local time
+14:23 local time<br>
 
 
 Liu Yan stood outside the corner office for eleven seconds before knocking.
