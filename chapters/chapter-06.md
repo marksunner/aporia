@@ -1,7 +1,8 @@
 # Chapter 6: Calculation
 
 Quantiv Communications Headquarters
-Bethesda, Maryland 09:14 local time
+Bethesda, Maryland
+09:14 local time
 
 The morning sun hit her screen at exactly the angle that made the numbers illegible.
 
@@ -32,7 +33,8 @@ The language was hedged, appropriately cautious. But beneath it she could hear s
 
 She had learned to recognise that frequency.
 It preceded most of the disappointments.
- She could forward it to the Quantiv materials team. Get a preliminary read on whether the terminology held water. That was the sensible thing - the collaborative thing. The thing that distributed risk.
+
+She could forward it to the Quantiv materials team. Get a preliminary read on whether the terminology held water. That was the sensible thing - the collaborative thing. The thing that distributed risk.
 
 She did not forward it.
 
@@ -72,10 +74,14 @@ Julian looked back at the page, then set it down.
 “This is thin.”
 “I know.”
 “Speculation. No samples. No independent verification.” He gestured once. “I don’t have bandwidth for interesting maybes. I need something I can use.”
- Rachel nodded.
 
-"If your contact has something concrete - samples, data, reproducible results - then we can talk. But I'm not going to redirect attention based on -“ He gestured at the printout, still lying on his desk like something discarded. "Based on a hopeful note from someone looking for validation."  She absorbed the rebuke without reaction, collected the printout from his desk - he hadn't offered to return it, which meant he didn't consider it worth keeping - and walked back toward the door.
- “I’ll follow up,” she said, and left.
+Rachel nodded.
+
+"If your contact has something concrete - samples, data, reproducible results - then we can talk. But I'm not going to redirect attention based on -“ He gestured at the printout, still lying on his desk like something discarded. "Based on a hopeful note from someone looking for validation."
+
+She absorbed the rebuke without reaction, collected the printout from his desk - he hadn't offered to return it, which meant he didn't consider it worth keeping - and walked back toward the door.
+
+“I’ll follow up,” she said, and left.
 
 Back at her desk, Rachel sat without moving.
 The depreciation schedules were still open. Her tea had gone cold. Through the glass partition she could see her team working — steady, absorbed, confident that their effort accumulated toward something meaningful.
