@@ -1,4 +1,4 @@
-# Chapter 4
+# Chapter 4: Mistrust
 
 Hainan Province
 MSS Signals Intelligence Facility 
