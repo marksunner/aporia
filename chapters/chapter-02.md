@@ -1,4 +1,4 @@
-# Chapter 2
+# Chapter 2: Beijing
 
 Beijing, Haidian District
 06:47 local time
