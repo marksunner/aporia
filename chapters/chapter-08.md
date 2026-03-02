@@ -1,8 +1,8 @@
 # Chapter 8: Departure
 
-Mid-Pacific, 12°46’N 167°12’W
-Research Vessel JOIDES Resolution
-03:37 ship time
+Mid-Pacific, 12°46’N 167°12’W<br>
+Research Vessel JOIDES Resolution<br>
+03:37 ship time<br>
 
 Three sharp knocks. Then three more.
 
