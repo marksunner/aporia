@@ -1,4 +1,4 @@
-# Chapter 10
+# Chapter 10: Marionettist
 
 The Ritz-Carlton Chevy Chase Bethesda, Maryland  05:47 local time
 
