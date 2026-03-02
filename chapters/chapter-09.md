@@ -1,4 +1,4 @@
-# Chapter 9
+# Chapter 9: Acquiescence
 
 Beijing, Haidian District 06:43 local time
 
