@@ -1,8 +1,8 @@
 # Chapter 10: Marionettist
 
-The Ritz-Carlton Chevy Chase
-Bethesda, Maryland 
-05:47 local time
+The Ritz-Carlton Chevy Chase<br>
+Bethesda, Maryland<br>
+05:47 local time<br>
 
 Rachel woke before the alarm, as she always did in hotels. The unfamiliarity kept her light - strange sheets, strange air, the distinctive silence of a room that belonged to no one. She lay still for a moment, letting the day come into focus before anything tried to claim it.
 Grey light gathered at the curtains, the city beyond them already awake and in motion.
