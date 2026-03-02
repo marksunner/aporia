@@ -55,4 +55,4 @@ What follows is not the story we've been trained to expect. No governments leap 
 
 ## About the Author
 
-Mark Sunner is a former CTO with a background in technology and communication. Aporia is his first novel, blending hard science fiction with explorations of human psychology and institutional dynamics.
+Mark Sunner is a former CTO with a background in technology and communication. Aporia is his first novel (work in progress!), blending hard science fiction with explorations of human psychology and institutional dynamics.
