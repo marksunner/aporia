@@ -1,4 +1,4 @@
-# Chapter 3
+# Chapter 3: Duplicity
 
 Mid-Pacific, 12°46’N 167°12’W Research Vessel JOIDES Resolution 08:54 ship time 
 Dr. Samuel Okon was halfway down the passageway when his phone vibrated. No name. Just a short message from Elena: Could you come to the lab when you're able. It wasn't phrased as urgent. That, more than anything else, told him it probably was.
