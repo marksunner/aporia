@@ -31,16 +31,16 @@ What follows is not the story we've been trained to expect. No governments leap 
 | Chapter | Title | Status |
 |---------|-------|--------|
 | [Chapter 1](chapters/chapter-01.md) | *The Discovery* | ✅ Complete |
-| [Chapter 2](chapters/chapter-02.md) | | ✅ Complete |
-| [Chapter 3](chapters/chapter-03.md) | | ✅ Complete |
-| [Chapter 4](chapters/chapter-04.md) | | ✅ Complete |
-| [Chapter 5](chapters/chapter-05.md) | | ✅ Complete |
-| [Chapter 6](chapters/chapter-06.md) | | ✅ Complete |
-| [Chapter 7](chapters/chapter-07.md) | | ✅ Complete |
-| [Chapter 8](chapters/chapter-08.md) | | ✅ Complete |
-| [Chapter 9](chapters/chapter-09.md) | | ✅ Complete |
-| [Chapter 10](chapters/chapter-10.md) | | ✅ Complete |
-| [Chapter 11](chapters/chapter-11.md) | | 📝 Draft |
+| [Chapter 2](chapters/chapter-02.md) | *Beijing* | ✅ Complete |
+| [Chapter 3](chapters/chapter-03.md) | *Duplicity* | ✅ Complete |
+| [Chapter 4](chapters/chapter-04.md) | *Mistrust* | ✅ Complete |
+| [Chapter 5](chapters/chapter-05.md) | *Alarm* | ✅ Complete |
+| [Chapter 6](chapters/chapter-06.md) | *Calculation* | ✅ Complete |
+| [Chapter 7](chapters/chapter-07.md) | *Certainty* | ✅ Complete |
+| [Chapter 8](chapters/chapter-08.md) | *Departure* | ✅ Complete |
+| [Chapter 9](chapters/chapter-09.md) | *Acquiescence* | ✅ Complete |
+| [Chapter 10](chapters/chapter-10.md) | *Marionettist* | ✅ Complete |
+| [Chapter 11](chapters/chapter-11.md) | *Epiphany* | 📝 Draft |
 
 ---
 
