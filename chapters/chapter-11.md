@@ -1,11 +1,7 @@
-# CHAPTER ELEVEN — Collaborative Draft
-## H2 + H3 | For Mark
+# Chapter 11: Epiphany
 
-*Writing rule: Inhabit Elena. Physical sensation first. Trust the reader.*
-
----
-
-CHAPTER ELEVEN
+Honolulu, Hawaii
+US Coast Guard Air Station Barbers Point
 
 The ground didn't move.
 
