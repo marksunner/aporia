@@ -1,8 +1,8 @@
 # Chapter 5: Alarm
 
-Mid-Pacific, 12°46'N 167°12'W
-Research Vessel JOIDES Resolution
-11:47 ship time
+Mid-Pacific, 12°46'N 167°12'W<br>
+Research Vessel JOIDES Resolution<br>
+11:47 ship time<br>
 
 The documentation was complete.
 
