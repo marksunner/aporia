@@ -10,7 +10,7 @@
 
 **About**
 
-**Aporia** is a hard sci-fi novel exploring first contact, institutional failure, and the fragility of human certainty when confronted with the genuinely unknown.
+**Aporia** is a hard sci-fi novel exploring first contact, The Fermi Paradox, and the fragility of human certainty when confronted with the genuinely unknown.
 
 The story begins with marine geochemist Dr. Elena Vargas aboard the research vessel *JOIDES Resolution*, where a routine sediment core reveals something that shouldn't exist: perfect microspheres, buried in 34-million-year-old sediment, that defy every known natural process.
 
