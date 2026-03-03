@@ -31,7 +31,7 @@ What follows is not the story we've been trained to expect. No governments leap 
 | Chapter | Title | Status |
 |---------|-------|--------|
 | [Chapter 1](chapters/chapter-01.md) | *Discovery* | ✅ Complete |
-| [Chapter 2](chapters/chapter-02.md) | *Beijing* | ✅ Complete |
+| [Chapter 2](chapters/chapter-02.md) | *Inertia* | ✅ Complete |
 | [Chapter 3](chapters/chapter-03.md) | *Duplicity* | ✅ Complete |
 | [Chapter 4](chapters/chapter-04.md) | *Mistrust* | ✅ Complete |
 | [Chapter 5](chapters/chapter-05.md) | *Alarm* | ✅ Complete |
