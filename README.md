@@ -1,5 +1,7 @@
 # Aporia
 
+<img src="images/cover.png" align="right" width="200" alt="Aporia cover">
+
 **A hard science fiction novel in progress**
 
 *By Mark Sunner*
@@ -10,13 +12,9 @@
 
 **Aporia** is a hard sci-fi novel exploring first contact, institutional failure, and the fragility of human certainty when confronted with the genuinely unknown.
 
-The story begins with marine geochemist Dr. Elena Vargas aboard the research vessel *JOIDES Resolution*, where a routine sediment core reveals something that shouldn't exist: perfect microspheres, buried in 34 million year old sediment, that defy every known natural process.
+The story begins with marine geochemist Dr. Elena Vargas aboard the research vessel *JOIDES Resolution*, where a routine sediment core reveals something that shouldn't exist: perfect microspheres, buried in 34-million-year-old sediment, that defy every known natural process.
 
 What follows is not the story we've been trained to expect. No governments leap into action. No heroes emerge with answers. Instead, we watch as discovery collides with bureaucracy, as evidence meets institutional inertia, and as the people closest to the truth struggle to be heard.
-
-8<- - -
-
-This remains a work in progress - I estimate the completed Novel will require approximately 55 chapters.  The target completion date is July 2027.
 
 ---
 
@@ -34,8 +32,8 @@ This remains a work in progress - I estimate the completed Novel will require ap
 
 | Chapter | Title | Status |
 |---------|-------|--------|
-| [Chapter 1](chapters/chapter-01.md) | *Discovery* | ✅ Complete |
-| [Chapter 2](chapters/chapter-02.md) | *Inertia* | ✅ Complete |
+| [Chapter 1](chapters/chapter-01.md) | *The Discovery* | ✅ Complete |
+| [Chapter 2](chapters/chapter-02.md) | *Beijing* | ✅ Complete |
 | [Chapter 3](chapters/chapter-03.md) | *Duplicity* | ✅ Complete |
 | [Chapter 4](chapters/chapter-04.md) | *Mistrust* | ✅ Complete |
 | [Chapter 5](chapters/chapter-05.md) | *Alarm* | ✅ Complete |
@@ -44,7 +42,7 @@ This remains a work in progress - I estimate the completed Novel will require ap
 | [Chapter 8](chapters/chapter-08.md) | *Departure* | ✅ Complete |
 | [Chapter 9](chapters/chapter-09.md) | *Acquiescence* | ✅ Complete |
 | [Chapter 10](chapters/chapter-10.md) | *Marionettist* | ✅ Complete |
-| [Chapter 11](chapters/chapter-11.md) | *Epiphany* | 📝 Draft |
+| [Chapter 11](chapters/chapter-11.md) | *Epiphany* | ✅ Complete |
 
 ---
 
