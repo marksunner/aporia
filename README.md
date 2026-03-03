@@ -6,8 +6,6 @@
 
 *By Mark Sunner*
 
----
-
 ## About
 
 **Aporia** is a hard sci-fi novel exploring first contact, institutional failure, and the fragility of human certainty when confronted with the genuinely unknown.
