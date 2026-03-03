@@ -14,7 +14,9 @@ The story begins with marine geochemist Dr. Elena Vargas aboard the research ves
 
 What follows is not the story we've been trained to expect. No governments leap into action. No heroes emerge with answers. Instead, we watch as discovery collides with bureaucracy, as evidence meets institutional inertia, and as the people closest to the truth struggle to be heard.
 
-This remains a working progress - I estimate the completed level will require 55 chapters.
+8<- - -
+
+This remains a work in progress - I estimate the completed level will require 55 chapters.
 
 ---
 
