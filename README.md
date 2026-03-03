@@ -16,7 +16,7 @@ What follows is not the story we've been trained to expect. No governments leap 
 
 8<- - -
 
-This remains a work in progress - I estimate the completed level will require 55 chapters.
+This remains a work in progress - I estimate the completed Novel will require approximately 55 chapters.
 
 ---
 
