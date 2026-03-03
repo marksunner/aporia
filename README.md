@@ -1,16 +1,22 @@
-<img src="images/cover.png" align="right" width="200" alt="Aporia cover">
-
 # Aporia
+
+<img src="images/cover.png" align="right" width="200" alt="Aporia cover">
 
 **A hard science fiction novel in progress**
 
 *By Mark Sunner*
+
+<br>
+
+**About**
 
 **Aporia** is a hard sci-fi novel exploring first contact, institutional failure, and the fragility of human certainty when confronted with the genuinely unknown.
 
 The story begins with marine geochemist Dr. Elena Vargas aboard the research vessel *JOIDES Resolution*, where a routine sediment core reveals something that shouldn't exist: perfect microspheres, buried in 34-million-year-old sediment, that defy every known natural process.
 
 What follows is not the story we've been trained to expect. No governments leap into action. No heroes emerge with answers. Instead, we watch as discovery collides with bureaucracy, as evidence meets institutional inertia, and as the people closest to the truth struggle to be heard.
+
+<br clear="all">
 
 ---
 
